@@ -1,7 +1,7 @@
 Para usar las aplicaciones:
 1. Use los siguientes enlaces:
-   App de temática teórica (Arquitectura de Red):
-   App de temática práctica (Escape Room): 
+   App de temática teórica (Arquitectura de Red): https://drive.google.com/drive/folders/1mX8PIG5_67RUihAgHOZhztIbWcqq5_ON?usp=sharing
+   App de temática práctica (Escape Room): https://drive.google.com/drive/folders/1UG0JwCg1NyY3KW6X1LIG9ZgjABwXUer1?usp=sharing 
 2. Descargue el archivo comprimido.
 3. Descomprima el archivo.
 4. Vaya a la carpeta Builds.
@@ -12,8 +12,8 @@ Para usar las aplicaciones:
 
 Para modificar las aplicaciones:
 1. Use los siguientes enlaces:
-   App de temática teórica (Arquitectura de Red):
-   App de temática práctica (Escape Room): 
+   App de temática teórica (Arquitectura de Red): https://drive.google.com/drive/folders/1mX8PIG5_67RUihAgHOZhztIbWcqq5_ON?usp=sharing
+   App de temática práctica (Escape Room): https://drive.google.com/drive/folders/1UG0JwCg1NyY3KW6X1LIG9ZgjABwXUer1?usp=sharing
 2. Descargue el archivo comprimido.
 3. Descomprima el archivo.
 4. Vaya a Unity Hub y cargue las carpetas de los dos proyectos (aplicaciones).
