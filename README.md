@@ -3,7 +3,7 @@ Para usar las aplicaciones:
 2. Opción B: entrar a la carpeta y descargar cada archivo app.7z.001, app.7z.002, … (todas las partes).
 3. Pon todas las partes en la misma carpeta en tu PC (por ejemplo, Descargas\mi-apk).
 4. Instala 7-Zip (si no lo tienes): https://www.7-zip.org/
-5. En la carpeta donde están las partes, clic derecho sobre Unidad1.zip.001/EscapeRoom.zip.001 → 7-Zip → Extraer aquí (o “Extract here”).
+5. En la carpeta donde están las partes, clic derecho sobre Unidad1.zip.001/EscapeRoom1.zip.001 → 7-Zip → Extraer aquí (o “Extract here”).
 6. 7-Zip unirá automáticamente todas las partes y te dejará un archivo app.apk.
 7. Si sale “Can not open file as archive”:
    Falta una parte / se descargó incompleta.
